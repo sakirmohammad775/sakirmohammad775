@@ -25,5 +25,5 @@
 <br />
 <br/>
 <br/>
-![Sakir Mohammad Git'Hub](https://github-readme-stats.vercel.app/api?username=sakirmohammad775&show_icons=true&theme=radical)
-Top Language:(https://github-readme-stats.vercel.app/api/top-langs/?username=sakirmohammad775&hide_progress=true)
+![Sakir Mohammad Git'Hub](https://github-readme-stats.vercel.app/api?username=sakirmohammad775&show_icons=true&theme=radical) <br/>
+![Top Language]:(https://github-readme-stats.vercel.app/api/top-langs/?username=sakirmohammad775&hide_progress=true)
