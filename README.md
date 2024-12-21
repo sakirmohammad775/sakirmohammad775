@@ -9,7 +9,7 @@
 
 - 🎓 A MERN Stack Developer with hands-on experience in JavaScript.   
 - 🌐 A Full Stack Web Developer.
-- ⏰ Concern About TimeManagement.
+- ⏰ Concern About Time Management.
 - 🎨 Interested in building visually stunning and user-friendly UIs.  
 - 🔍 Currently exploring **Data Structures and Algorithms** to strengthen problem-solving.  
 - 🤝 Collaborate on **JavaScript-based projects** including the **MERN stack** and more.
@@ -91,3 +91,11 @@ Feel free to reach out or connect for collaborations or project ideas:
 
 
 ---
+
+### 🖥️ My Coding Journey
+
+- 🧑‍💻 Codeforces: [https://codeforces.com/profile/sakirmohammad775]
+- 🧑‍💻 HackerRank: [https://www.hackerrank.com/profile/sakirmohammad775]
+- 💡 LeetCode: [https://leetcode.com/u/Sakir_Mohammad_Safayet/]
+- 📊 Kaggle: [https://www.kaggle.com/sakirmohammadsafayet]
+- 💻 Dev.to: [https://www.kaggle.com/sakirmohammadsafayet]
