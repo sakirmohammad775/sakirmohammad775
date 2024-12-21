@@ -1,18 +1,19 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Ritik 👋</h1>
-<h3 align="center">A Web Developer in Making 🚀</h3>
+<h1 align="center">Hi, I'm Sakir Mohammad 👋</h1>
+<h3 align="center">Full Stack Web Developer 🚀</h3>
 
 ---
 
-<p align="center">
-  🌄 A 2nd-year student pursuing Master's in Computer Applications from Guru Gobind Singh Indraprastha University 🎓.
-</p>
-<p align="center">
-  💻 Passionate about learning and working with the latest web technologies and domains. 
-</p>
-<p align="center">
-  🌱 Currently diving deeper into Web Development while honing my Data Structures and Algorithms skills 📊.
-</p>
+## About Me 😎
+
+- 🎓 A MERN Stack Developer with hands-on experience in JavaScript.   
+- 🌐 A Full Stack Web Developer.  
+- 🎨 Interested in building visually stunning and user-friendly UIs.  
+- 🔍 Currently exploring **Data Structures and Algorithms** to strengthen problem-solving.  
+- 🤝 Looking to collaborate on **JavaScript-based projects** including the **MERN stack** and more.
+- Explore and leverage new technologies to solve real-world problems 🌟.
+- My primary goal is to create efficient solutions and become an expert web developer! 💼
+
 
 ---
 
@@ -50,22 +51,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakirmohammad775&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
-
 ---
 
-### ✨ Fun Facts About Me
+### 📬 Connect with Me  
+Feel free to reach out or connect for collaborations or project ideas:  
 
-- I love to explore and leverage new technologies to solve real-world problems 🌟.
-- I guide and mentor networks as I grow 🧠.
-- My primary goal is to create efficient solutions and become an expert web developer! 💼
+- 📧 Email: sakirmohammad775@gmail.com  
+- 🌐 Portfolio: https://sakirmohammad.vercel.app/  
+- 📄 Resume: Available on Request  
+- 💼 LinkedIn: Sakir Mohammad  
+- 📸 Instagram: @sakirmohammad775  
 
----
-
-### 📬 Connect with Me
-Feel free to reach out or connect for collaborations or project ideas:
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 Portfolio: [Your Portfolio Link](#)
 
 ---
-
-Made with ❤️ by **Ritik Rawal**
