@@ -39,16 +39,17 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikrawal&show_icons=true&theme=radical&count_private=true" alt="Ritik's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakirmohammad775&show_icons=true&theme=radical&count_private=true" alt="Sakir Mohammad's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikrawal&layout=compact&theme=radical" alt="Top Used Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakirmohammad775&layout=compact&theme=radical" alt="Top Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikrawal&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakirmohammad775&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
 
 ---
 
