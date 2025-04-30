@@ -84,7 +84,7 @@
 Feel free to reach out or connect for collaborations or project ideas:  
 
 - 📧 Email: [sakirmohammad775@gmail.com] 
-- 🌐 Portfolio: [https://sakirmohammad.vercel.app/]  
+- 🌐 Portfolio: [https://sakir-mohammad.vercel.app/]  
 - 📄 Resume: Available on Request  
 - 💼 LinkedIn: [https://www.linkedin.com/in/sakir-mohammad-safayet/]  
 - 📸 Instagram: [https://www.instagram.com/sakir_mohammad_/] 
