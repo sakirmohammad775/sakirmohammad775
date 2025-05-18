@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" style="margin:10px;" />  
 </div>  
 
-
 #### 👨‍🎨 **Frontend Development**  
 <div align="center" style="background-color:#f5f7fa;padding:30px;border-radius:10px;">  
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin:10px;" />  
