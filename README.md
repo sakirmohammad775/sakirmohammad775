@@ -65,21 +65,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakirmohammad775&show_icons=true&theme=radical&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakirmohammad775&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sakirmohammad775&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakirmohammad775&theme=radical&no-frame=true&row=1" />
-</p>
+
 
 
 ---
