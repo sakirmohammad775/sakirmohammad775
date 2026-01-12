@@ -63,13 +63,94 @@
 
 ---  
 
+# 🚀 My GitHub Dashboard
+
+Welcome to my GitHub profile!  
+I build real-world projects using **Python, Django, React & Web Technologies**.
+
+---
+
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
+---
+
+## 📈 Contribution Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakirmohammad775&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
 </p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Language & Repo Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" width="45%" />
+</p>
+
+---
+
+## 🔥 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 📦 Project Stats (For Any Repo)
+
+Replace `REPO_NAME` with your project name 👇
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/YOUR_USERNAME/REPO_NAME?color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/REPO_NAME?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/REPO_NAME?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/YOUR_USERNAME/REPO_NAME?style=for-the-badge" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star!**
 
 
 
