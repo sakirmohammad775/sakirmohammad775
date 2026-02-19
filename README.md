@@ -2,6 +2,10 @@
 <div><h1 align="center">Hi, I'm Sakir Mohammad 👋</h1>
 <h3 align="center">Full Stack Web Developer 🚀</h3>
 </div>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Django+%7C+React+Engineer;Always+Learning+New+Things" />
+</p> -->
+
 
 ---
 
@@ -64,6 +68,23 @@
 
 ---
 
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=sakirmohammad775&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🔥 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakirmohammad775&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 ### 📬 Connect with Me  
 Feel free to reach out or connect for collaborations or project ideas:  
 
@@ -83,3 +104,6 @@ Feel free to reach out or connect for collaborations or project ideas:
 - 💡 LeetCode: [https://leetcode.com/u/Sakir_Mohammad_Safayet/]
 - 📊 Kaggle: [https://www.kaggle.com/sakirmohammadsafayet]
 - 💻 Dev.to: [https://www.kaggle.com/sakirmohammadsafayet]
+
+---
+
