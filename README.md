@@ -11,7 +11,8 @@
 
 ## About Me 
 
-- 🎓 A MERN Stack Developer with hands-on experience in JavaScript.   
+- 🎓 A MERN Stack Developer with hands-on experience in JavaScript.
+- 🌐 Portfolio: [https://sakir-mohammad.vercel.app/]    
 - 🌐 A Full Stack Web Developer.
 - ⏰ Concern About Time Management.
 - 🎨 Interested in building visually stunning and user-friendly UIs.  
