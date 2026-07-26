@@ -1,25 +1,37 @@
-<!-- Header -->
-<div><h1 align="center">Hi, I'm Sakir Mohammad 👋</h1>
-<h3 align="center">Full Stack Web Developer 🚀</h3>
-</div>
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Django+%7C+React+Engineer;Always+Learning+New+Things" />
-</p> -->
+<!-- 🚀 Profile Banner -->
+
+<p align="center">
+  <img src="https://i.ibb.co.com/XZ1XDgvH/Gemini-Generated-Image-d5vzbjd5vzbjd5vz1.png" alt="Sakir Mohammad - Full Stack Developer" width="100%">
+</p>
+
+<!-- 👋 Header -->
+
+<h1 align="center">Hi, I'm Sakir Mohammad </h1>
+
+<h3 align="center">
+  Full-Stack Developer • Backend Engineer • Future AI Engineer
+</h3>
+
+<p align="center">
+  Building scalable web applications, REST APIs, and AI-powered products
+  with modern technologies.
+</p>
 
 
 ---
+## 👨‍💻 About Me
 
-## About Me 
+* 🚀 **Full-Stack Developer** passionate about building scalable, user-focused web applications.
+* 💻 Experienced with **Python, Django, Django REST Framework, JavaScript, React, Node.js, and Express.js**.
+* 🛠️ Skilled in building **REST APIs, authentication systems, database-driven applications, and third-party integrations**.
+* 🧠 Currently strengthening my knowledge of **Data Structures & Algorithms, System Design, and Backend Engineering**.
+* 🤖 Exploring **AI/LLM technologies** and working toward becoming an **AI Engineer**.
+* 🎨 Passionate about creating **modern, responsive, and visually engaging user experiences**.
+* 🌍 Interested in solving **real-world problems through software and AI-powered solutions**.
+* 🤝 Open to collaborating on **Full-Stack, Backend, and AI-powered projects**.
+* 🌐 **Portfolio:** [www.sakirmohammadd.com](https://www.sakirmohammadd.com)
+* 💼 My goal is to continuously improve as an engineer, build impactful products, and contribute to **high-quality software solutions**.
 
-- 🎓 A MERN Stack Developer with hands-on experience in JavaScript.
-- 🌐 Portfolio: [www.sakirmohammadd.com]    
-- 🌐 A Full Stack Web Developer.
-- ⏰ Concern About Time Management.
-- 🎨 Interested in building visually stunning and user-friendly UIs.  
-- 🔍 Currently exploring **Data Structures and Algorithms** to strengthen problem-solving.  
-- 🤝 Collaborate on **JavaScript-based projects** including the **MERN stack** and more.
-- 🌟 Explore and leverage new technologies to solve real-world problems .
--  💼 My primary goal is to create efficient solutions and become an expert web developer!
   
 
 ---
@@ -77,6 +89,109 @@
   <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" style="margin:10px;" />
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" style="margin:10px;" />
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<!-- HotelHeaven -->
+
+<td width="33%" valign="top">
+
+<p align="center">
+  <a href="https://hotel-heaven-frontend.vercel.app/">
+    <img src="https://i.ibb.co.com/NnN9yZfM/Hotel-Heaven.webp" width="100%" alt="HotelHeaven">
+  </a>
+</p>
+
+<h3 align="center">🏨 HotelHeaven</h3>
+
+<p align="center">
+  <strong>Full-Stack Hotel Booking Platform</strong>
+</p>
+
+<p align="center">
+  A complete hotel booking platform featuring authentication, hotel discovery, room booking, payment integration, and personalized user dashboards.
+</p>
+
+<p align="center">
+  <code>Django</code>
+  <code>DRF</code>
+  <code>React</code>
+  <code>PostgreSQL</code>
+</p>
+
+
+
+</td>
+
+<!-- EventHub -->
+
+<td width="33%" valign="top">
+
+<p align="center">
+  <a href="https://event-management-na8a.onrender.com/">
+    <img src="https://i.ibb.co.com/QvPR7hqj/Event-management.webp" width="100%" alt="EventHub">
+  </a>
+</p>
+
+<h3 align="center">🎟️ EventHub</h3>
+
+<p align="center">
+  <strong>Event Management Platform</strong>
+</p>
+
+<p align="center">
+  A full-featured event management system with event creation, RSVP workflows, role-based access control, email notifications, and organizer dashboards.
+</p>
+
+<p align="center">
+  <code>Django</code>
+  <code>PostgreSQL</code>
+  <code>Tailwind CSS</code>
+</p>
+
+
+
+</td>
+
+<!-- Helix Diagnostic -->
+
+<td width="33%" valign="top">
+
+<p align="center">
+  <a href="https://helix-diagnostic-client.vercel.app/">
+    <img src="https://i.ibb.co.com/zhvb2hYz/helix.png" width="100%" alt="Helix Diagnostic">
+  </a>
+</p>
+
+<h3 align="center">🧬 Helix Diagnostic</h3>
+
+<p align="center">
+  <strong>Healthcare Diagnostic Platform</strong>
+</p>
+
+<p align="center">
+  A modern diagnostic center platform designed for patients to explore tests, book appointments, make secure payments, and manage healthcare services online.
+</p>
+
+<p align="center">
+  <code>React</code>
+  <code>Node.js</code>
+  <code>Express.js</code>
+  <code>MongoDB</code>
+</p>
+
+
+</td>
+
+</tr>
+</table>
+
+
 
 ---
 
